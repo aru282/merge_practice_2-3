@@ -1,1 +1,4 @@
 c2 is edited by master
+awesome three way merge practice is done by the arun
+c2 is updated by three way merge 555555
+
